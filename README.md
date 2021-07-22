@@ -1,1 +1,5 @@
-# tokens
+# APENFT tokens
+
+Ethereum: 0xEF40B859D21e4d566a3d713e756197c021BffaAa
+
+TRON: TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq
